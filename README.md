@@ -81,7 +81,7 @@ The fluorine chamber runs 1240 K hotter, yet its specific impulse comes out lowe
 ## Quick start
 
 ```bash
-git clone https://github.com/Carmeisel101/rs25-gone-fluorine.git
+git clone https://github.com/meiridian/rs25-gone-fluorine.git
 cd rs25-gone-fluorine
 make setup     # creates .venv and installs requirements.txt
 make           # runs both engines and prints the results
